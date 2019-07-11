@@ -1,0 +1,30 @@
+1#If a number is divided by 4, then 3 is subtracted, the result is 0. What is the number?   {a. 4, b. 3, c. 10, d. 12}
+1001#d
+2#Solve X where 3(x + 1) = 5(x - 2) + 7    {a. -2, b. 2, c. 1/2, d. 3}
+1002#d
+3#Which of the following is closest to the square root of 10.5?   {a. 3, b. 5, c. 4, d. 2}
+1003#a
+4#A father gave $500 to his two sons. He gave X dollars to one son. Which of the following expressions correctly shows the amount he gave to the other?    {a. 500 + X, b. 500 / X, c. 500 x X, d. 500 - X}
+1004#d
+5#Solve X where 5X = 20    {a. 4, b. 5, c. 10, d. 15}
+1005#a
+6#Solve X where X - 5 = 15    {a. 10, b. 15, c. 20, d. 25}
+1006#c
+7#Solve X where 3X + 7 - 2 = 8    {a. 1, b. 2, c. 3, d. 4}
+1007#a
+8#Irene is N years old. If Tom is twice as old, which of the following algebraic statements shows his age now?     {a. 2N, b. 2N + X, c. 2 - N, d. N - 2}
+1008#a
+9#John has B bats and buys C bats more. He then gives away D bats. Which of the following algebraic statements correctly shows how many bats John has left?     {a. D - BC, b. B - D - C, c. B + C - D, d. B + D + C}
+1009#c
+10#What is the representation algebraically of the cost of X feet of lumber at Y dollars per foot?     {a. X + Y, b. XY, c. X/Y, d. X - Y}
+1010#b
+11#3x + 6x =    {a. 3x, b. 9 + 2x, c. 9x, d. 9x + 2}
+1011#c
+12#5a + 2b - b + 4a =       {a. 9a + b, b. a + b, c. 7a - 3b, d. 6a}    
+1012#a
+13#Find the value of 3abc, where a=2, b=3 and c=4         {a. 12, b. 27, c. 72, d. 82}
+1013#c
+14#The sum of a certain number and 3 times the number is 40. What is the number?     {a. 8, b. 9, c. 10, d. 11}
+1014#c
+15#Find the amount of i in i = jte where j = $500, t = 6% and e = 4 years       {a. 1.2, b. 12, c. 120, d. 1200}
+1015#c
